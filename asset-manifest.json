@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Little-Learners/static/css/main.c08ed7f1.css",
-    "main.js": "/Little-Learners/static/js/main.b48c3182.js",
+    "main.js": "/Little-Learners/static/js/main.3086d952.js",
     "static/js/453.d4fd755b.chunk.js": "/Little-Learners/static/js/453.d4fd755b.chunk.js",
     "static/media/LandingImage Container.png": "/Little-Learners/static/media/LandingImage Container.8cee84862666e70bd9d8.png",
     "static/media/Image.svg": "/Little-Learners/static/media/Image.b2ef707ead4b17729441af13764ed702.svg",
@@ -30,11 +30,11 @@
     "static/media/Icon (7).svg": "/Little-Learners/static/media/Icon (7).739111c98d3c6b63689dfbfb157e1a0d.svg",
     "static/media/Icon (6).svg": "/Little-Learners/static/media/Icon (6).45ec3d7f9827c334da0867f04748f00f.svg",
     "main.c08ed7f1.css.map": "/Little-Learners/static/css/main.c08ed7f1.css.map",
-    "main.b48c3182.js.map": "/Little-Learners/static/js/main.b48c3182.js.map",
+    "main.3086d952.js.map": "/Little-Learners/static/js/main.3086d952.js.map",
     "453.d4fd755b.chunk.js.map": "/Little-Learners/static/js/453.d4fd755b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c08ed7f1.css",
-    "static/js/main.b48c3182.js"
+    "static/js/main.3086d952.js"
   ]
 }
